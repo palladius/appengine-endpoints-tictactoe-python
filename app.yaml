@@ -1,4 +1,5 @@
-application: your-app-id
+# Riccardo e~ricc-premium1-eu
+application: ricc-premium1-eu
 version: 1
 runtime: python27
 threadsafe: true
